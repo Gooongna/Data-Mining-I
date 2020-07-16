@@ -29,6 +29,10 @@ https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
 ## Result
 ![Screenshot](result_1.png)
 
+## Usage
+This repos is used to store the code without the raw dataset. To show the final proccessed data, there are two sample dataset are provided.
+So the code is runnable with sample dataset but cannot get the shown result. All intermediate results maintained inside the jupyter notebook are trained from fully dataset.
+
 ## Learnings
 Besides the task of churn prediction, this project also aims to explore as many as possible the classicial ML model to handle binary classification problem and the standard ML lifecycle 
 
