@@ -27,7 +27,7 @@ https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data
 - Parameter tunning via GridSearch
 
 ## Result
-![Screenshot](result_1.png)
+![result](https://github.com/Gooongna/Predict-the-Churn-Customer-for-KKBox-Inc.-/blob/master/result_1.PNG)
 
 ## Usage
 This repos is used to store the code without the raw dataset. To show the final proccessed data, there are two sample dataset are provided.
